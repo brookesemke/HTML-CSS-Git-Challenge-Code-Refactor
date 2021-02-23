@@ -13,5 +13,6 @@ In addition, I updated the codebase for long-term sustainability by adding comme
 
 ## URL of Deployed Application 
 
+https://brookesemke.github.io/horiseon-challenge/ 
 
 
